@@ -16,9 +16,9 @@ A fully scratch-built web-based **Number Guessing Game** using **HTML**, **CSS**
   - 🔴 **Hard**: Guess a number between 1–1000.
 
 - 💻 Built entirely with:
-  - HTML5 for structure
-  - CSS3 for styling
-  - Vanilla JavaScript for all game logic and interactivity
+  - HTML for structure
+  - CSS for styling
+  - JavaScript for all game logic and interactivity
 
 ---
 
@@ -53,9 +53,9 @@ A fully scratch-built web-based **Number Guessing Game** using **HTML**, **CSS**
 
 ## 📚 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML
+- CSS
+- JavaScript
 
 ---
 
