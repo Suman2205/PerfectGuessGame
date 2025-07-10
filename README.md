@@ -11,9 +11,9 @@ A fully scratch-built web-based **Number Guessing Game** using **HTML**, **CSS**
   - 👥 **Player Mode**: Supports multiple players taking turns to guess the number.
 
 - 📊 **Three Difficulty Levels:**
-  - 🟢 **Easy**: Guess a number between 1–50.
-  - 🟡 **Medium**: Guess a number between 1–100.
-  - 🔴 **Hard**: Guess a number between 1–500.
+  - 🟢 **Easy**: Guess a number between 1–100.
+  - 🟡 **Medium**: Guess a number between 1–500.
+  - 🔴 **Hard**: Guess a number between 1–1000.
 
 - 💻 Built entirely with:
   - HTML5 for structure
