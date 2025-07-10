@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgba(255, 166, 0, 0.893);
+}
+#box{
+    background-color: rgba(128, 128, 128, 0.208);
+    border: 2px solid black;
+    height: 75px;
+    width: 175px;
+    align-self: center;
+}
+#heading{
+    color:gold;
+    font-size: large;
+    font-style: italic;
+}
+#content{
+    justify-content: center;
+}
+.gameMode{
+    display: flex;
+    justify-content: center;
+}
+#game button{
+    background-color: aliceblue;
+}
+#game button:hover{
+    background-color: rgb(28, 233, 28);
+}
+.mode{
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+#name{
+    margin: 10px;
+    height: 20px;
+    width: 200px;
+    border-radius: 4px;
+}
+.mode:hover{
+    box-shadow: 7px 7px 10px gray;
+}
+.mode:active{
+    border: 4px black;
+    box-shadow: 20px 20px 10px ;
+}
+#easy{
+    background-color: rgb(6, 209, 6);
+}
+#medium{
+    background-color: rgb(211, 211, 63);
+}
+#hard{
+    background-color: rgba(215, 55, 55, 0.868);
+}
+#rule-box {
+    position: fixed;
+    top: 70px;
+    right: 20px;
+    width: 250px;
+    background: #fff;
+    border: 1px solid #333;
+    padding: 15px;
+    display: none;
+    z-index: 1000;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.material-symbols-outlined {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+    z-index: 1000;
+    vertical-align: middle;
+    font-size: 24px;
+}
+#n{
+    height: 15px;
+    width: 200px;
+    margin: 10px;
+}

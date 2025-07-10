@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgba(255, 166, 0, 0.893);
+}
+.mode button{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    font-size: medium;
+    font-style: italic;
+    color: black;
+}
+.mode button:hover{
+    box-shadow: 7px 7px 10px gray;
+}
+.option{
+    display: flex;
+    justify-content: center;
+}
+#rule-box {
+    position: fixed;
+    top: 70px;
+    right: 20px;
+    width: 250px;
+    background: #fff;
+    border: 1px solid #333;
+    padding: 15px;
+    display: none;
+    z-index: 1000;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.material-symbols-outlined{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+    z-index: 1000;
+    vertical-align: middle;
+    font-size: 24px;
+}
+
+
+
